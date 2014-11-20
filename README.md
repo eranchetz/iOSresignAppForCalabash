@@ -10,6 +10,6 @@ The soltuion we found was to resign and re-entitle the IPA.
 
 ### Example
 
-./IPAresign  Myapp.ipa /Users/John/Downloads/automation_Provisioning.mobileprovision "iPhone Developer: John Smith (DLABC99W)"
+        ./IPAresign  Myapp.ipa /Users/John/Downloads/automation_Provisioning.mobileprovision "iPhone Developer: John Smith (DLABC99W)"
 
 
